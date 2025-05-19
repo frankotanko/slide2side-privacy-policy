@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy – Slide2Side</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; margin: 0 auto; max-width: 700px; padding: 20px; }
+    h1, h2 { color: #333; }
+    a { color: #1a0dab; }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy</h1>
+
+  <p><strong>Last updated:</strong> May 19, 2025</p>
+
+  <p>Thank you for choosing Slide2Side (“we”, “us”, “our”). This Privacy Policy explains how we handle information when you use our Android app <em>Slide2Side</em> (the “App”).</p>
+
+  <h2>1. Information We Collect</h2>
+
+  <h3>1.1 Media File URIs</h3>
+  <p>The App prompts you to grant it permission to read audio files from your device (via the Android Storage Access Framework). We only store the <em>URI references</em> to the files you explicitly select; we do <strong>not</strong> upload, transmit, or copy your audio files off your device.</p>
+
+  <h3>1.2 App Usage Data</h3>
+  <p>We do not collect, transmit, or store any analytics or usage logs. No third-party analytics SDKs are bundled. Your play/pause/seek actions remain local to your device.</p>
+
+  <h2>2. How We Use Your Information</h2>
+
+  <ul>
+    <li><strong>Playback & Controls:</strong> To play, pause, seek, and adjust volume or equalizer settings on the audio files you select.</li>
+    <li><strong>Persistence:</strong> To remember your last-played track URIs and volume/equalizer settings via Android’s secure SharedPreferences.</li>
+  </ul>
+
+  <h2>3. Permissions</h2>
+  <ul>
+    <li><strong>READ_EXTERNAL_STORAGE / READ_MEDIA_AUDIO:</strong> To load audio files you choose.</li>
+    <li><strong>FOREGROUND_SERVICE:</strong> To continue playback when the app is in the background or the screen is off.</li>
+  </ul>
+
+  <h2>4. Third-Party Services</h2>
+  <p>We do not integrate any third-party services, SDKs, or ad networks. There is no analytics, advertising, or crash-reporting service embedded.</p>
+
+  <h2>5. Data Security</h2>
+  <p>All data (URIs, preferences) remains on your device. We use standard Android storage and sandboxing. We do not transmit data over the network.</p>
+
+  <h2>6. Children’s Privacy</h2>
+  <p>The App is not directed to children under 13. We do not knowingly collect information from anyone under 13.</p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>We may update this policy as the App evolves. If we make material changes, we’ll bump the “Last updated” date. Please review periodically.</p>
+
+  <h2>8. Contact Us</h2>
+  <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+  <ul>
+    <li>Email: <a href="mailto:privacy@yourdomain.com">privacy@yourdomain.com</a></li>
+    <li>Website: <a href="https://yourdomain.com/">https://yourdomain.com/</a></li>
+  </ul>
+
+</body>
+</html>
